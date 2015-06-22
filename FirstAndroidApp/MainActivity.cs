@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace FirstAndroidApp
 {
-    [Activity(Label = "FirstAndroidApp", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "MyFirstAndroidApp", MainLauncher = true, Icon = "@drawable/reddit")]
     public class MainActivity : Activity
     {
         int count = 1;
